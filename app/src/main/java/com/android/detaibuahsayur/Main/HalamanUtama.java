@@ -8,9 +8,9 @@ import android.widget.Button;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.android.detaibuahsayur.R;
+import com.android.detaibuahsayur.detail_buah.item.halamanbuah.MainActivityHargaBuah;
 import com.android.detaibuahsayur.detail_buah.item.halamanbuah.halamanbuah;
-import com.android.detaibuahsayur.detail_buah.item.halamanbuah.halamanhargabuah;
-import com.android.detaibuahsayur.detail_sayur.item.halamansayur.halamanhargasayur;
+import com.android.detaibuahsayur.detail_sayur.item.halamansayur.MainActivityHargaSayur;
 import com.android.detaibuahsayur.detail_sayur.item.halamansayur.halamansayur;
 
 public class HalamanUtama extends AppCompatActivity implements View.OnClickListener {
@@ -45,11 +45,10 @@ public class HalamanUtama extends AppCompatActivity implements View.OnClickListe
                 startActivity(pindah2);
                 break;
             case R.id.btn_satu3:
-                Intent pindah3 = new Intent(HalamanUtama.this, halamanhargasayur.class);
+                Intent pindah3 = new Intent(HalamanUtama.this, MainActivityHargaSayur.class);
                 startActivity(pindah3);
-                break;
             case R.id.btn_satu4:
-                Intent pindah4 = new Intent(HalamanUtama.this, halamanhargabuah.class);
+                Intent pindah4 = new Intent(HalamanUtama.this, MainActivityHargaBuah.class);
                 startActivity(pindah4);
                 break;
         }

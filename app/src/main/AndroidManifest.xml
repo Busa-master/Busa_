@@ -20,8 +20,8 @@
         <activity android:name=".Main.HalamanUtama" />
         <activity android:name=".detail_sayur.item.halamansayur.halamansayur" />
         <activity android:name=".detail_buah.item.halamanbuah.halamanbuah" />
-        <activity android:name=".detail_sayur.item.halamansayur.halamanhargasayur" />
-        <activity android:name=".detail_buah.item.halamanbuah.halamanhargabuah" />
+        <activity android:name=".detail_sayur.item.halamansayur.MainActivityHargaSayur" />
+        <activity android:name=".detail_buah.item.halamanbuah.MainActivityHargaBuah" />
         <activity android:name=".detail_sayur.item.bayam" />
         <activity android:name=".detail_sayur.item.brokoli" />
         <activity android:name=".detail_sayur.item.jamurtiram" />

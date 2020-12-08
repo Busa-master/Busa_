@@ -174,7 +174,7 @@
                         <ImageView
                             android:id="@+id/img_photo3"
                             android:layout_width="125dp"
-                            android:layout_height="100dp"
+                            android:layout_height="120dp"
                             android:layout_marginTop="8dp"
                             android:layout_marginBottom="8dp"
                             android:scaleType="centerCrop"
@@ -234,7 +234,7 @@
                         <ImageView
                             android:id="@+id/img_photo4"
                             android:layout_width="125dp"
-                            android:layout_height="100dp"
+                            android:layout_height="120dp"
                             android:layout_marginTop="8dp"
                             android:scaleType="centerCrop"
                             android:src="@drawable/hargabuah" />
