@@ -104,6 +104,8 @@ Halaman ini menampilkan harga pasar dari sayur-sayuran yang sewaktu-waktu bisa b
 
 Halaman ini menampilkan harga pasar dari buah-buahan yang sewaktu-waktu bisa berubah.
 
+![WhatsApp Image 2020-12-08 at 23 57 23](https://user-images.githubusercontent.com/60412314/101515646-281e4880-39b1-11eb-8d66-24c963263717.jpeg)
+
 
 # Terimakasih :)
 
