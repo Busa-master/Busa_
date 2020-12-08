@@ -99,6 +99,8 @@ Halaman ini menampilkan Detail manfaat dari sebuah buah.
 
 Halaman ini menampilkan harga pasar dari sayur-sayuran yang sewaktu-waktu bisa berubah.
 
+![WhatsApp Image 2020-12-09 at 00 03 22](https://user-images.githubusercontent.com/60412314/101516386-02de0a00-39b2-11eb-9a43-0d74ae9963a4.jpeg)
+
 
 ## Tampilan Halaman Harga Pasar Buah-buahan
 
