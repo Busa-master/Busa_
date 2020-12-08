@@ -5,7 +5,7 @@
     android:layout_height="wrap_content"
     android:orientation="vertical"
     android:padding="@dimen/activity_vertical_margin"
-    tools:context=".detail_sayur.item.halamansayur.halamanhargasayur">
+    >
 
     <de.hdodenhof.circleimageview.CircleImageView
         android:id="@+id/img_item_photo"
@@ -31,7 +31,7 @@
             android:layout_marginBottom="8dp"
             android:textSize="14sp"
             android:textStyle="bold"
-            tools:text="@string/fruit_name" />
+            tools:text="Nama Sayur" />
 
 
         <TextView
@@ -41,7 +41,7 @@
             android:ellipsize="end"
             android:maxLines="1"
             android:textSize="12sp"
-            tools:text="@string/price_fruit" />
+            tools:text="Nama Buah" />
     </LinearLayout>
 
 

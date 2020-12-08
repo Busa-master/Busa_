@@ -29,11 +29,11 @@
 
         <ImageView
             android:id="@+id/gambarpepaya"
-            android:layout_width="300dp"
+            android:layout_width="wrap_content"
             android:layout_height="185dp"
-            android:layout_marginLeft="40dp"
+            android:layout_marginLeft="20dp"
             android:layout_marginTop="20sp"
-            android:layout_marginRight="15dp"
+            android:layout_marginRight="20dp"
             android:layout_marginBottom="9dp"
             android:src="@drawable/detail_pepaya" />
 

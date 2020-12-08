@@ -21,9 +21,9 @@ public class MainActivityHargaSayur extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activitymain_harga);
 
-        rvBusa = findViewById(R.id.rv_hero);
+        rvBusa = findViewById(R.id.rv_sayur);
         rvBusa.setHasFixedSize(true);
 
         list.addAll(Sayurdata.getListData());

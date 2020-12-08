@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="vertical"
+    android:background="#8799B1"
     tools:context=".detail_buah.item.halamanbuah.halamanbuah">
 
     <LinearLayout
@@ -15,12 +16,12 @@
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="8dp"
-            android:layout_marginTop="4dp"
-            android:layout_marginRight="8dp"
-            android:layout_marginBottom="4dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="8dp"
             android:background="@drawable/background"
-            card_view:cardCornerRadius="4dp">
+            card_view:cardCornerRadius="8dp">
 
             <RelativeLayout
                 android:layout_width="match_parent"
@@ -69,9 +70,9 @@
                         android:layout_marginRight="16dp"
                         android:ellipsize="end"
                         android:maxLines="2"
-                        android:text="Manfaat....."
+                        android:text="Manfaat buah alpukat bagi kesehatan adalah...."
                         android:textColor="#01655C"
-                        android:textSize="15sp" />
+                        android:textSize="13sp" />
 
                 </LinearLayout>
 
@@ -103,12 +104,12 @@
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="8dp"
-            android:layout_marginTop="4dp"
-            android:layout_marginRight="8dp"
-            android:layout_marginBottom="4dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="8dp"
             android:background="@drawable/background"
-            card_view:cardCornerRadius="4dp">
+            card_view:cardCornerRadius="8dp">
 
             <RelativeLayout
                 android:layout_width="match_parent"
@@ -157,9 +158,9 @@
                         android:layout_marginRight="16dp"
                         android:ellipsize="end"
                         android:maxLines="2"
-                        android:text="Manfaat....."
+                        android:text="Manfaat buah apel bagi kesehatan  adalah...."
                         android:textColor="#01655C"
-                        android:textSize="15sp" />
+                        android:textSize="13sp" />
 
                 </LinearLayout>
 
@@ -191,12 +192,12 @@
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="8dp"
-            android:layout_marginTop="4dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="8dp"
             android:layout_marginRight="8dp"
-            android:layout_marginBottom="4dp"
+            android:layout_marginBottom="16dp"
             android:background="@drawable/background"
-            card_view:cardCornerRadius="4dp">
+            card_view:cardCornerRadius="8dp">
 
             <RelativeLayout
                 android:layout_width="match_parent"
@@ -245,9 +246,9 @@
                         android:layout_marginRight="16dp"
                         android:ellipsize="end"
                         android:maxLines="2"
-                        android:text="Manfaat....."
+                        android:text="Manfaat buah jeruk bagi kesehatan adalah....."
                         android:textColor="#01655C"
-                        android:textSize="15sp" />
+                        android:textSize="13sp" />
 
                 </LinearLayout>
 
@@ -279,12 +280,12 @@
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="8dp"
-            android:layout_marginTop="4dp"
-            android:layout_marginRight="8dp"
-            android:layout_marginBottom="4dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="8dp"
             android:background="@drawable/background"
-            card_view:cardCornerRadius="4dp">
+            card_view:cardCornerRadius="8dp">
 
             <RelativeLayout
                 android:layout_width="match_parent"
@@ -333,9 +334,9 @@
                         android:layout_marginRight="16dp"
                         android:ellipsize="end"
                         android:maxLines="2"
-                        android:text="Manfaat....."
+                        android:text="Manfaat buah manggis bagi kesehatan adalah ....."
                         android:textColor="#01655C"
-                        android:textSize="15sp" />
+                        android:textSize="13sp" />
 
                 </LinearLayout>
 
@@ -367,12 +368,12 @@
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="8dp"
-            android:layout_marginTop="4dp"
-            android:layout_marginRight="8dp"
-            android:layout_marginBottom="4dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="8dp"
             android:background="@drawable/background"
-            card_view:cardCornerRadius="4dp">
+            card_view:cardCornerRadius="8dp">
 
             <RelativeLayout
                 android:layout_width="match_parent"
@@ -421,9 +422,9 @@
                         android:layout_marginRight="16dp"
                         android:ellipsize="end"
                         android:maxLines="2"
-                        android:text="Manfaat....."
+                        android:text="Manfaat buah naga bagi kesehatan adalah..."
                         android:textColor="#01655C"
-                        android:textSize="15sp" />
+                        android:textSize="13sp" />
 
                 </LinearLayout>
 
@@ -455,12 +456,12 @@
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="8dp"
-            android:layout_marginTop="4dp"
-            android:layout_marginRight="8dp"
-            android:layout_marginBottom="4dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="8dp"
             android:background="@drawable/background"
-            card_view:cardCornerRadius="4dp">
+            card_view:cardCornerRadius="8dp">
 
             <RelativeLayout
                 android:layout_width="match_parent"
@@ -509,9 +510,9 @@
                         android:layout_marginRight="16dp"
                         android:ellipsize="end"
                         android:maxLines="2"
-                        android:text="Manfaat....."
+                        android:text="Manfaat buah nanas bagi kesehatan adalah...."
                         android:textColor="#01655C"
-                        android:textSize="15sp" />
+                        android:textSize="13sp" />
 
                 </LinearLayout>
 
@@ -543,12 +544,12 @@
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="8dp"
-            android:layout_marginTop="4dp"
-            android:layout_marginRight="8dp"
-            android:layout_marginBottom="4dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="8dp"
             android:background="@drawable/background"
-            card_view:cardCornerRadius="4dp">
+            card_view:cardCornerRadius="8dp">
 
             <RelativeLayout
                 android:layout_width="match_parent"
@@ -597,9 +598,9 @@
                         android:layout_marginRight="16dp"
                         android:ellipsize="end"
                         android:maxLines="2"
-                        android:text="Manfaat....."
+                        android:text="Manfaat buah pepaya bagi kesehatan adalah..."
                         android:textColor="#01655C"
-                        android:textSize="15sp" />
+                        android:textSize="13sp" />
 
                 </LinearLayout>
 
@@ -631,12 +632,12 @@
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="8dp"
-            android:layout_marginTop="4dp"
-            android:layout_marginRight="8dp"
-            android:layout_marginBottom="4dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="8dp"
             android:background="@drawable/background"
-            card_view:cardCornerRadius="4dp">
+            card_view:cardCornerRadius="8dp">
 
             <RelativeLayout
                 android:layout_width="match_parent"
@@ -662,7 +663,7 @@
                     android:layout_marginBottom="8dp"
                     android:layout_toEndOf="@+id/d_buah8"
                     android:layout_toRightOf="@+id/d_buah8"
-                    android:text="Pepaya"
+                    android:text="Pisang"
                     android:textColor="#333333"
                     android:textSize="20sp"
                     android:textStyle="bold" />
@@ -685,9 +686,9 @@
                         android:layout_marginRight="16dp"
                         android:ellipsize="end"
                         android:maxLines="2"
-                        android:text="Manfaat....."
+                        android:text="Manfaat buah pisang bagi kesehatan adalah....."
                         android:textColor="#01655C"
-                        android:textSize="15sp" />
+                        android:textSize="13sp" />
 
                 </LinearLayout>
 
@@ -720,12 +721,12 @@
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="8dp"
-            android:layout_marginTop="4dp"
-            android:layout_marginRight="8dp"
-            android:layout_marginBottom="4dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="8dp"
             android:background="@drawable/background"
-            card_view:cardCornerRadius="4dp">
+            card_view:cardCornerRadius="8dp">
 
             <RelativeLayout
                 android:layout_width="match_parent"
@@ -774,9 +775,9 @@
                         android:layout_marginRight="16dp"
                         android:ellipsize="end"
                         android:maxLines="2"
-                        android:text="Manfaat....."
+                        android:text="Manfaat buah semangka bagi kesehatan adalah...."
                         android:textColor="#01655C"
-                        android:textSize="15sp" />
+                        android:textSize="13sp" />
 
                 </LinearLayout>
 
@@ -808,12 +809,12 @@
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="8dp"
-            android:layout_marginTop="4dp"
-            android:layout_marginRight="8dp"
-            android:layout_marginBottom="4dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="8dp"
             android:background="@drawable/background"
-            card_view:cardCornerRadius="4dp">
+            card_view:cardCornerRadius="8dp">
 
             <RelativeLayout
                 android:layout_width="match_parent"
@@ -862,9 +863,9 @@
                         android:layout_marginRight="16dp"
                         android:ellipsize="end"
                         android:maxLines="2"
-                        android:text="Manfaat....."
+                        android:text="Manfaat buah strawberry bagi kesehatan adalah....."
                         android:textColor="#01655C"
-                        android:textSize="15sp" />
+                        android:textSize="13sp" />
 
                 </LinearLayout>
 
