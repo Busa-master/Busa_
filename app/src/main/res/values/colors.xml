@@ -5,9 +5,9 @@
     <color name="colorAccent">#03DAC5</color>
 
     <!-- Screens background color-->
-    <color name="bg_screen1">#70C2BC</color>
-    <color name="bg_screen2">#8799B1</color>
-    <color name="bg_screen3">#868A8A</color>
+    <color name="bg_screen1">#000000</color>
+    <color name="bg_screen2">#70C2BC</color>
+    <color name="bg_screen3">#000000</color>
     <color name="bg_screen4">#70C2BC</color>
 
     <!-- dots inactive colors -->
